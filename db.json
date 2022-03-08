@@ -1,0 +1,174 @@
+{
+  "events": [
+    {
+      "id": 123,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 456,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 789,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": "3cf83c67-56cd-4e88-81e8-b9c4cc1a5110",
+      "category": "animal welfare",
+      "title": "Zoo Meeting",
+      "description": "Lets go for the hippo ride at Impala Park and Birds Sanctuary",
+      "location": "Kisumu Town",
+      "date": "24/06/2018",
+      "time": "8am",
+      "organizer": "Bill Albert"
+    },
+    {
+      "id": "8d70de85-030c-4a67-8362-fce70726dd43",
+      "category": "animal welfare",
+      "title": "Zoo Meeting",
+      "description": "Lets go for the hippo ride at Impala Park and Birds Sanctuary",
+      "location": "Kisumu Town",
+      "date": "24/06/2018",
+      "time": "8am",
+      "organizer": "Bill Albert"
+    },
+    {
+      "id": 790,
+      "category": "education",
+      "title": "Home Economics",
+      "description": "Home theory",
+      "location": "Home",
+      "date": "27/08/2022",
+      "time": "12:00 noon",
+      "organizer": ""
+    },
+    {
+      "id": "621f3372-7d1d-4d76-8c00-8d17468595ae",
+      "category": "nature",
+      "title": "Mother Nature",
+      "description": "A visit to the sloping sides of mount Elgon",
+      "location": "Mt Elgon National Park",
+      "date": "24/03/2018",
+      "time": "15:00 Hrs",
+      "organizer": "Bill Albert"
+    },
+    {
+      "id": "f0e70609-c0ef-43a8-b901-f8b62c52bd7f",
+      "category": "food",
+      "title": "Coffee Table",
+      "description": "A meet up at the Coffee Shop and Snack Bar",
+      "location": "Snack Bar Shopping Center",
+      "date": "31/03/2022",
+      "time": "5:30pm",
+      "organizer": "Bill Albert"
+    },
+    {
+      "id": "d2462565-b5ad-4f49-b1ea-1d929cce191a",
+      "category": "sustainability",
+      "title": "Global Sustainability ",
+      "description": "21st Century GDS",
+      "location": "Nairobi, Kenya",
+      "date": "07/07/2022",
+      "time": "12Hrs",
+      "organizer": "Bill Albert"
+    },
+    {
+      "id": "3b054600-d9dd-4da4-8e39-7a517853d859",
+      "category": "food",
+      "title": "Luncheon",
+      "description": "The Governors lunch",
+      "location": "School Hall",
+      "date": "24/05/2022",
+      "time": "1pm",
+      "organizer": "Bill Albert"
+    },
+    {
+      "id": "0239e5b5-92af-4936-a1aa-2742770b5ab9",
+      "category": "animal welfare",
+      "title": "Protect Donkey",
+      "description": "In an attempt to protect Donkeys from the harsh 21st century",
+      "location": "Mpeketoni",
+      "date": "14-05-2022",
+      "time": "1400 Hrs",
+      "organizer": "Bill Albert"
+    },
+    {
+      "id": "ef0e7ad3-ccf5-425f-9f38-b871239bc20b",
+      "category": "food",
+      "title": "Governors Luncheon",
+      "description": "Lunch time tales",
+      "location": "School Hall",
+      "date": "23-04-2022",
+      "time": "12:45 noon",
+      "organizer": "Bill Albert"
+    },
+    {
+      "id": "fbc3347d-348c-4079-938d-520ab80942ca",
+      "category": "nature",
+      "title": "Community Service",
+      "description": "School Clean up",
+      "location": "Kenyatta University",
+      "date": "05-05-2022",
+      "time": "9:00am",
+      "organizer": "Bill Albert"
+    },
+    {
+      "id": "278ea281-5ef6-432d-8931-cfabaf5baaf0",
+      "category": "sustainability",
+      "title": "Energy Efficiency",
+      "description": "Energy Sustainability for Homes",
+      "location": "Nairobi, Kenya",
+      "date": "24-03-2022",
+      "time": "4:00pm",
+      "organizer": "Bill Albert"
+    },
+    {
+      "id": "e34023a0-4935-4f47-a764-dfab18e25576",
+      "category": "housing",
+      "title": "Maasai Manyatttas",
+      "description": "A visit to the Maasai Manyatta's ",
+      "location": "Narok",
+      "date": "05-08-2022",
+      "time": "12:00am",
+      "organizer": "Bill Albert"
+    },
+    {
+      "id": "c8255c22-9833-40c4-afa5-161620f2c1d6",
+      "category": "animal welfare",
+      "title": "Donkeys Keeping",
+      "description": "Safety of our Donkeys",
+      "location": "Everywhere",
+      "date": "17th June 2023",
+      "time": "From 6 Hrs",
+      "organizer": "Bill Albert"
+    },
+    {
+      "id": "7db60763-8f6e-470e-a025-3cf4153ca2b8",
+      "category": "sustainability",
+      "title": "Sustainable Environment",
+      "description": "A sustainable eco friendly environment full",
+      "location": "Nairobi Kenya",
+      "date": "23-03-2022",
+      "time": "6pm",
+      "organizer": "Bill Albert"
+    }
+  ]
+}
